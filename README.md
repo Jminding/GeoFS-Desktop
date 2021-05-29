@@ -8,3 +8,6 @@ So how to install (mac):
 3. Open and drag GeoFS(.app) to applications
 4. You should get an error "oh no not from verified developer" - for that just right click then click open and click open again
 5. Done, enjoy lol
+
+# What is GeoFS?
+GeoFS is a flight simulator.  Check out more about it [here](https://geo-fs.com).
