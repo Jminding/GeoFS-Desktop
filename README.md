@@ -1,6 +1,6 @@
 # GeoFS-Desktop
 Idk i made geofs flight sim into a desktop app for convenience lol<br>
-This app is not endorsed by the website
+This app is not endorsed by the [actual website](https://geo-fs.com/geofs.php)
 
 So how to install (mac):
 1. Go to latest release on the side: https://github.com/Jminding/GeoFS-Desktop-Mac/releases
