@@ -24,3 +24,5 @@ How to install:<br>
 # What is GeoFS?
 GeoFS is a flight simulator.  Check out more about it [here](https://geo-fs.com).
 It has many planes for you to fly.  You can also buy the HD version for €9.99 ($12.18).
+
+## Enjoy!
