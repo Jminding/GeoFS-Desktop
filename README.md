@@ -9,12 +9,14 @@ How to install:<br>
 3. Open and drag GeoFS(.app) to Applications folder
 4. You should get an error "GeoFS(.app) is not from an identified developer..." - for that just right click then click open and click open again
 5. Enjoy!
-<br>(Windows)
+
+(Windows)
 1. Download
 2. Run it
 3. If you get a security error or whatever just go to Microsoft Antivirus of Windows Defender and go to the threat then click More Info or an arrow then click keep anyway
 4. Enjoy!
-<br>(Linux)
+
+(Linux)
 1. Download
 2. Run it
 3. It should work... Enjoy!
