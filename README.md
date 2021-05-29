@@ -4,7 +4,7 @@ This app is not endorsed by the [actual website](https://geo-fs.com/geofs.php) (
 
 How to install:<br>
 (MacOS)
-1. Go to latest release on the side: https://github.com/Jminding/GeoFS-Desktop-Mac/releases
+1. Go to latest release on the side: https://github.com/Jminding/GeoFS-Desktop/releases
 2. Download latest release (the .zip file should have -mac, -macos, or -darwin in it)
 3. Open and drag GeoFS(.app) to Applications folder
 4. You should get an error "GeoFS(.app) is not from an identified developer..." - for that just right click then click open and click open again
