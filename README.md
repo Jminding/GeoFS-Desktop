@@ -28,3 +28,10 @@ GeoFS is a flight simulator.  Check out more about it [here](https://geo-fs.com)
 It has many planes for you to fly.  You can also buy the HD version for €9.99 ($12.18).
 
 ## Enjoy!
+Linux:<br>
+![GeoFS-Linux](https://user-images.githubusercontent.com/69938575/120089738-0cc40880-c0cb-11eb-8858-84db93b55766.png)<br>
+MacOS:<br>
+<img width="1440" alt="GeoFS-Mac" src="https://user-images.githubusercontent.com/69938575/120089739-0cc40880-c0cb-11eb-8dff-4b78000cdffb.png"><br>
+Windows:<br>
+![GeoFS-Windows](https://user-images.githubusercontent.com/69938575/120089740-0df53580-c0cb-11eb-83bf-b657d84366cd.png)
+
