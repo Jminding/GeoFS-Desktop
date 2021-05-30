@@ -3,7 +3,7 @@ The Desktop version of GeoFS!<br>
 This app is not endorsed by the [actual website](https://geo-fs.com/geofs.php) (hopefully it will be soon 🙂).  Use it at your own risk.
 
 How to install:<br>
-**Go to the latest release first, no matter what platform you have: https://github.com/Jminding/GeoFS-Desktop/releases**<br>
+**Go to the latest release first, no matter what platform you have: https://github.com/Jminding/GeoFS-Desktop/releases/latest**<br>
 (MacOS)
 1. Download latest release (the .dmg file should have -mac, -macos, or -darwin in it)
 2. Open and drag GeoFS(.app) to Applications folder
