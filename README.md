@@ -17,11 +17,11 @@ How to install:<br>
 4. You might get a notification that it's from an unverified developer and is not safe, you can just click on more info and click run anyway
 5. Enjoy!
 
-(Linux)
+(Ubuntu Linux)
 1. Download
-2. Run it
-3. If you get a security error then you can probably just keep clicking more info and such until you get it
-4. Enjoy!
+2. Go to the place where you have it downloaded then right click on it then choose properties
+3. Go to permissions (the tab to the right) then check "Allow executing file as program"
+4. Run it and enjoy!
 
 # What is GeoFS?
 GeoFS is a flight simulator.  Check out more about it [here](https://geo-fs.com).
