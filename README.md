@@ -4,7 +4,7 @@ The Desktop version of GeoFS, made by **JAaMDG** and **NeoCOMS**!<br>
 How to install:<br>
 **Go to the latest release first, no matter what platform you have: <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest">https://github.com/Jminding/GeoFS-Desktop/releases/latest</a>**<br>
 (MacOS)
-1. Download latest release (the .dmg file should have -mac, -macos, or -darwin in it)
+1. Download latest release
 2. Open and drag GeoFS(.app) to Applications folder
 3. If you open the application, you might get an error "GeoFS(.app) is not from an identified developer..." or "This application is damaged..." - for that just right click then click open and click open again
 4. Enjoy!
