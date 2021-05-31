@@ -1,5 +1,5 @@
 # GeoFS-Desktop
-The Desktop version of GeoFS, made by JAaMDG and NeoCOMS!<br>
+The Desktop version of GeoFS, made by **JAaMDG** and **NeoCOMS**!<br>
 
 How to install:<br>
 **Go to the latest release first, no matter what platform you have: https://github.com/Jminding/GeoFS-Desktop/releases/latest**<br>
