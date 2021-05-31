@@ -1,6 +1,5 @@
 # GeoFS-Desktop
-The Desktop version of GeoFS!<br>
-This app is not endorsed by the [actual website](https://geo-fs.com/geofs.php) (hopefully it will be soon 🙂).  Use it at your own risk.
+The Desktop version of GeoFS, made by JAaMDG and NeoCOMS!<br>
 
 How to install:<br>
 **Go to the latest release first, no matter what platform you have: https://github.com/Jminding/GeoFS-Desktop/releases/latest**<br>
