@@ -2,22 +2,21 @@
 The Desktop version of GeoFS, made by **JAaMDG** and **NeoCOMS**!<br>
 
 How to install:<br>
-**Go to <a href="https://jminding.github.io/GeoFS-Desktop/GeoFSApp-downloadpage.html">https://jminding.github.io/GeoFSApp-download</a>**<br>
 (MacOS)
-1. Download latest release
+1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS.dmg">Download latest release</a>
 2. Open and drag GeoFS(.app) to Applications folder
 3. If you open the application, you might get an error "GeoFS(.app) is not from an identified developer..." or "This application is damaged..." - for that just right click then click open and click open again
 4. Enjoy!
 
 (Windows)
-1. Download it
+1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS.exe">Download latest release</a>
 2. When you download you'll probably get an error saying that it's not from a verified developer, just click on the three dots or more info then click keep anyway
 3. Run it
 4. You might get a notification that it's from an unverified developer and is not safe, you can just click on more info and click run anyway
 5. Enjoy!
 
 (Linux)
-1. Download
+1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS.AppImage">Download latest release</a>
 2. Go to the place where you have it downloaded then right click on it then choose properties
 3. Go to permissions (the tab to the right) then check "Allow executing file as program"
 4. Run it and enjoy!
