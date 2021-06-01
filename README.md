@@ -16,7 +16,7 @@ How to install:<br>
 4. You might get a notification that it's from an unverified developer and is not safe, you can just click on more info and click run anyway
 5. Enjoy!
 
-(Ubuntu Linux)
+(Linux)
 1. Download
 2. Go to the place where you have it downloaded then right click on it then choose properties
 3. Go to permissions (the tab to the right) then check "Allow executing file as program"
