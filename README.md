@@ -9,17 +9,17 @@ How to install:<br>
 4. Enjoy!
 
 (Windows)
-1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS.exe">Download latest release</a>
+1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS-win32-x64.zip">Download latest release</a>
 2. When you download you'll probably get an error saying that it's not from a verified developer, just click on the three dots or more info then click keep anyway
-3. Run it
-4. You might get a notification that it's from an unverified developer and is not safe, you can just click on more info and click run anyway
-5. Enjoy!
+3. Open it and go to the file called `GeoFS.exe`
+4. Run it
+5. You might get a notification that it's from an unverified developer and is not safe, you can just click on more info and click run anyway
+6. Enjoy!
 
 (Linux)
-1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS.AppImage">Download latest release</a>
-2. Go to the place where you have it downloaded then right click on it then choose properties
-3. Go to permissions (the tab to the right) then check "Allow executing file as program"
-4. Run it and enjoy!
+1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS-linux-x64.zip">Download latest release</a>
+2. Open it and go to the file called `GeoFS` (it's now a shell script)
+5. Run it and enjoy!
 
 # What is GeoFS?
 GeoFS is a flight simulator.  Check out more about it [here](https://geo-fs.com).
