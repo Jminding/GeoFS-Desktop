@@ -1,6 +1,11 @@
 # GeoFS-Desktop
 The Desktop version of GeoFS, made by **JAaMDG** and **NeoCOMS**!<br>
 
+A few disclaimers:
+This is the GeoFS website in an executable file
+GeoFS already runs perfectly fine on MacOS, Windows and Linux as a browser application. This app was made if you like using apps more than websites.
+GeoFS is in no circumstances responsible for any problem caused by this app.
+
 How to install:<br>
 (MacOS)
 1. <a href="https://github.com/Jminding/GeoFS-Desktop/releases/latest/download/GeoFS.dmg">Download latest release</a>
